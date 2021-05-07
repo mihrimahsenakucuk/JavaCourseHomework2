@@ -17,19 +17,6 @@ public class Main {
         instructor1.setLastName("Demiroğ");
         instructor1.setEmail("engindemirog@outlook.com");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 
 }
