@@ -10,8 +10,4 @@ public class Instructor extends User {
         this.lessons = lessons;
     }
 
-
-
-
-
 }
