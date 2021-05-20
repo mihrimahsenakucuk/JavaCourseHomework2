@@ -13,9 +13,9 @@ public class Main {
 
         Instructor instructor1 = new Instructor();
         instructor1.setId("1");
-        instructor1.setName("Engin");
-        instructor1.setLastName("Demiroğ");
-        instructor1.setEmail("engindemirog@outlook.com");
+        instructor1.setName("Ahmet");
+        instructor1.setLastName("Ahmet");
+        instructor1.setEmail("xxx@outlook.com");
 
     }
 
